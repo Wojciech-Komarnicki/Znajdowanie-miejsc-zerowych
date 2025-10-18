@@ -23,18 +23,11 @@ while True:
                 a = float(input("Wpisz współczynnik 'a' = "))
             else:
                 break
-
-
-
         b = float(input("Wpisz współczynnik 'b' = "))
         c = float(input("Wpisz współczynnik 'c' = "))
-
         delta = b**2 - 4*a*c
-
-
         if delta < 0:
             print("\nDelta jest mniejsza od zera.\nBrak miejsc zerowych")
-
         elif delta == 0:
             x0 = (-b + math.sqrt(delta)) / (2*a)
             print(f"\nDelta jest równa 0.\nMiejsce zerowe tej funkcji to: {x0}")
