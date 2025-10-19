@@ -1,8 +1,3 @@
-Program do szukania miejsc zerowych
-
-
-
-
 import math
 lista = []
 while True:
