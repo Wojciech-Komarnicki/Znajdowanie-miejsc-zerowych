@@ -1,7 +1,3 @@
-Jasne, oto krótki opis Twojego projektu w formacie, który idealnie nadaje się do pliku **`README.md`** na GitHubie.
-
------
-
 # 📐 Kalkulator Miejsc Zerowych (Liniowa i Kwadratowa)
 
 Prosty i interaktywny skrypt konsolowy napisany w Pythonie, służący do obliczania miejsc zerowych dla funkcji liniowych ($y=ax+b$) i kwadratowych ($y=ax^2+bx+c$).
